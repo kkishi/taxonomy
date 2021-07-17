@@ -5,6 +5,7 @@
     * 線形変換・アフィン変換 ([Rotate and Flip](https://atcoder.jp/contests/abc189/tasks/abc189_e))
 * ゲーム
     * Grundy数 ([解説](https://www.creativ.xyz/grundy-number-1065/), [VS AtCoder](https://atcoder.jp/contests/typical90/tasks/typical90_ae), [Interval Game 2](https://atcoder.jp/contests/abc206/tasks/abc206_f))
+    * 後退解析 ([Shiritori](https://atcoder.jp/contests/abc209/tasks/abc209_e))
 * xor
     * [はまやんさんのまとめ](https://blog.hamayanhamayan.com/entry/2017/05/20/145021)
     * `x+y = (x^y)+2*(x&y)` ([Unfair Nim](https://atcoder.jp/contests/abc172/tasks/abc172_f))
