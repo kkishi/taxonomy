@@ -20,6 +20,7 @@
         * カタラン数 ([White and Black Balls](https://atcoder.jp/contests/abc205/tasks/abc205_e))
 * DP
     * 桁DPは、状態を全てフラグにして、配るDPで書く。([はまやんさんのまとめ](https://blog.hamayanhamayan.com/entry/2017/04/23/212728))
+    * 二乗の木DP ([Tree Patrolling](https://atcoder.jp/contests/abc207/tasks/abc207_f)、公式解説の証明が分かりやすい)
 * グラフ
     * 木の巡回は、DFS順に点を訪れれば良い。
     * 木のサイズは、木の巡回長/2で求まる。
