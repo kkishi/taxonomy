@@ -15,12 +15,13 @@
     * 区間和問題はzero sum rangesを疑う ([うしさんのtweet](https://twitter.com/ei1333/status/1408791847426695174), [Diluc and Kaeya](https://codeforces.com/contest/1536/problem/C), [Mod i](https://atcoder.jp/contests/abc207/tasks/abc207_e), [けんちょんさんのまとめ](https://drken1215.hatenablog.com/archive/category/Zero-Sum%20Ranges), [Rem of Sum is Num](https://atcoder.jp/contests/abc146/tasks/abc146_e))
 * 数え上げ
     * 包除
-        * 約数系包除 ([Sum of gcd of Tuples (Hard)](https://atcoder.jp/contests/abc162/tasks/abc162_e), [Divide Both](https://atcoder.jp/contests/abc206/tasks/abc206_e))
+        * 約数系包除 ([Sum of gcd of Tuples (Hard)](https://atcoder.jp/contests/abc162/tasks/abc162_e), [Divide Both](https://atcoder.jp/contests/abc206/tasks/abc206_e), [Power Pair](https://atcoder.jp/contests/abc212/tasks/abc212_g))
     * グリッド経路数え上げ
         * カタラン数 ([White and Black Balls](https://atcoder.jp/contests/abc205/tasks/abc205_e))
 * DP
     * 桁DPは、状態を全てフラグにして、配るDPで書く。([はまやんさんのまとめ](https://blog.hamayanhamayan.com/entry/2017/04/23/212728))
     * 二乗の木DP ([Tree Patrolling](https://atcoder.jp/contests/abc207/tasks/abc207_f)、公式解説の証明が分かりやすい)
+    * 部分列DP ([Substrings](https://atcoder.jp/contests/abc214/tasks/abc214_f), [けんちょんさん](https://qiita.com/drken/items/a207e5ae3ea2cf17f4bd))
 * グラフ
     * 木の巡回は、DFS順に点を訪れれば良い。
     * 木のサイズは、木の巡回長/2で求まる。
@@ -29,3 +30,4 @@
     * 畳み込み
         * 文字列`S`と`T`について、`S`の全ての連続する部分列と`T`とのハミング距離は、畳み込みで求まる([Substring 2](https://atcoder.jp/contests/abc196/tasks/abc196_f))
         * 数列`A, B, C, ...`に対して、添字`i+j+k+...`の和がある値`X`となるように動かしたときの`A[i]*B[j]*C[k]*...`の和は、`convolution(A, convolution(B, ...))[X]`で求められる([RGB Balls 2](https://atcoder.jp/contests/typical90/tasks/typical90_bm))
+    * 原始根 ([Power Pair](https://atcoder.jp/contests/abc212/tasks/abc212_g))
