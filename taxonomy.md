@@ -46,4 +46,4 @@
     * 区間篩 ([Divisors of Binomial Coefficient](https://atcoder.jp/contests/abc227/tasks/abc227_g))
 * フロー
     * 最小費用流
-        * 最小流量・負辺((Minimum Coloring)[https://atcoder.jp/contests/abc231/tasks/abc231_h])
+        * 最小流量・負辺([Minimum Coloring](https://atcoder.jp/contests/abc231/tasks/abc231_h))
