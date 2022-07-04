@@ -25,6 +25,7 @@
     * 累積和による高速化([Divide a Sequence](https://atcoder.jp/contests/abc234/tasks/abc234_g), [RLE](https://atcoder.jp/contests/abc249/tasks/abc249_e))
     * 円環のDPは、最初の要素の状態で場合分けをして列のDPをする([Cards](https://atcoder.jp/contests/abc247/tasks/abc247_f))
     * 耳DP([Ears](https://atcoder.jp/contests/yahoo-procon2019-qual/tasks/yahoo_procon2019_qual_d), [Knapsack for All Segments](https://atcoder.jp/contests/abc159/tasks/abc159_f), [Max Min](https://atcoder.jp/contests/abc247/tasks/abc247_e))
+    * 箱根駅伝DP([箱根駅伝](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2439), [Permutation Oddness](https://atcoder.jp/contests/abc134/tasks/abc134_f))
 * グラフ
     * 木の巡回は、DFS順に点を訪れれば良い。
     * 木のサイズは、木の巡回長/2で求まる。
@@ -54,6 +55,7 @@
     * 最小流量・負辺([Minimum Coloring](https://atcoder.jp/contests/abc231/tasks/abc231_h), [輪投げ](https://atcoder.jp/contests/past202005-open/tasks/past202005_o))
     * 最大重みマッチング([Dream Team](https://atcoder.jp/contests/abc247/tasks/abc247_g))
 * 並列二分探索([可変全域木](https://atcoder.jp/contests/past202004-open/tasks/past202004_o))
-* マージテク([path pass i](https://atcoder.jp/contests/abc163/tasks/abc163_f))
+* マージテク([path pass i](https://atcoder.jp/contests/abc163/tasks/abc163_f), [Unique Occurrences](https://codeforces.com/contest/1681/problem/F))
 * 区間スケジューリング問題([仕事計画](https://atcoder.jp/contests/arc032/tasks/arc032_3))
 * K番目に大きい要素を効率よく求める問題([Game on Tree 2](https://atcoder.jp/contests/abc218/tasks/abc218_g), [Ignore Operations](https://atcoder.jp/contests/abc249/tasks/abc249_f))
+* 隣り合う要素であって値の異なるものを消す操作を繰り返して区間が全て消せるかを効率よく判定する([Almost Triple Deletions](https://codeforces.com/contest/1699/problem/D))
