@@ -51,6 +51,11 @@
     * floor(N/x)のとりうる値とその現れる回数はO(√N)で求まる ([Up the Strip (simplified version)](https://codeforces.com/contest/1561/problem/D1), [Small Products](https://atcoder.jp/contests/abc132/tasks/abc132_f))
     * Mo's Algorithm
 * 区間篩 ([Divisors of Binomial Coefficient](https://atcoder.jp/contests/abc227/tasks/abc227_g))
+* 最大流
+    * 最小カット・復元([Builder Takahashi](https://atcoder.jp/contests/abc239/tasks/abc239_g))
+    * 最大流([Round Robin](https://atcoder.jp/contests/abc241/tasks/abc241_g), [Maxflow](https://atcoder.jp/contests/practice2/tasks/practice2_d), [Planes on a 2D Plane](https://atcoder.jp/contests/typical90/tasks/typical90_by))
+    * 行・列に対応するノードを作る([Grid and Tokens](https://atcoder.jp/contests/abc205/tasks/abc205_f))
+    * 燃やす・埋める([MUL](https://atcoder.jp/contests/arc085/tasks/arc085_c), [Zebraness](https://atcoder.jp/contests/abc193/tasks/abc193_f), [Get More Money](https://atcoder.jp/contests/typical90/tasks/typical90_an), [Grid Card Game](https://atcoder.jp/contests/abc259/tasks/abc259_g))
 * 最小費用流
     * 最小流量・負辺([Minimum Coloring](https://atcoder.jp/contests/abc231/tasks/abc231_h), [輪投げ](https://atcoder.jp/contests/past202005-open/tasks/past202005_o))
     * 最大重みマッチング([Dream Team](https://atcoder.jp/contests/abc247/tasks/abc247_g))
