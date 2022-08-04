@@ -5,7 +5,7 @@
     * 線形変換・アフィン変換 ([Rotate and Flip](https://atcoder.jp/contests/abc189/tasks/abc189_e))
 * ゲーム
     * Grundy数 ([解説](https://www.creativ.xyz/grundy-number-1065/), [VS AtCoder](https://atcoder.jp/contests/typical90/tasks/typical90_ae), [Interval Game 2](https://atcoder.jp/contests/abc206/tasks/abc206_f))
-    * 後退解析 ([Shiritori](https://atcoder.jp/contests/abc209/tasks/abc209_e))
+    * 後退解析 ([Shiritori](https://atcoder.jp/contests/abc209/tasks/abc209_e), [Game on Graph](https://atcoder.jp/contests/abc261/tasks/abc261_h))
 * xor
     * [はまやんさんのまとめ](https://blog.hamayanhamayan.com/entry/2017/05/20/145021)
     * `x+y = (x^y)+2*(x&y)` ([Unfair Nim](https://atcoder.jp/contests/abc172/tasks/abc172_f), [AND and SUM](https://atcoder.jp/contests/abc238/tasks/abc238_d))
@@ -26,6 +26,7 @@
     * 円環のDPは、最初の要素の状態で場合分けをして列のDPをする([Cards](https://atcoder.jp/contests/abc247/tasks/abc247_f))
     * 耳DP([Ears](https://atcoder.jp/contests/yahoo-procon2019-qual/tasks/yahoo_procon2019_qual_d), [Knapsack for All Segments](https://atcoder.jp/contests/abc159/tasks/abc159_f), [Max Min](https://atcoder.jp/contests/abc247/tasks/abc247_e))
     * 箱根駅伝DP([箱根駅伝](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2439), [Permutation Oddness](https://atcoder.jp/contests/abc134/tasks/abc134_f))
+    * 必要な更新回数の上限が小さい([Chip Move](https://codeforces.com/contest/1716/problem/D))
 * グラフ
     * 木の巡回は、DFS順に点を訪れれば良い。
     * 木のサイズは、木の巡回長/2で求まる。
@@ -44,6 +45,7 @@
     * フェルマーの小定理 ([Integer Sequence Fair](https://atcoder.jp/contests/abc228/tasks/abc228_e))
     * 拡張ユークリッドの互助法([Oversleeping](https://atcoder.jp/contests/abc193/tasks/abc193_e))
     * 約数の総和は、素因数ごとの等比数列の和の積で表される([Mod 2](https://yukicoder.me/submissions/753097))
+    * 離散対数 ([222](https://atcoder.jp/contests/abc222/tasks/abc222_g))
 * 中間値の定理 ([Count Median](https://atcoder.jp/contests/abc169/tasks/abc169_e), [Two Hundred Twenty One](https://codeforces.com/contest/1562/problem/D1), [Count 1's](https://atcoder.jp/contests/arc137/tasks/arc137_b))
 * セグメント木
     * RMQはその個数も同時に求められる ([Matrix](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=3035), [解説](http://web-ext.u-aizu.ac.jp/circles/acpc/commentary/RitsCamp2018Day2/J.pdf), [コード](https://github.com/beet-aizu/library/blob/master/test/aoj/3035.test.cpp))
@@ -55,7 +57,7 @@
     * 最小カット・復元([Builder Takahashi](https://atcoder.jp/contests/abc239/tasks/abc239_g))
     * 最大流([Round Robin](https://atcoder.jp/contests/abc241/tasks/abc241_g), [Maxflow](https://atcoder.jp/contests/practice2/tasks/practice2_d), [Planes on a 2D Plane](https://atcoder.jp/contests/typical90/tasks/typical90_by))
     * 行・列に対応するノードを作る([Grid and Tokens](https://atcoder.jp/contests/abc205/tasks/abc205_f))
-    * 燃やす・埋める([MUL](https://atcoder.jp/contests/arc085/tasks/arc085_c), [Zebraness](https://atcoder.jp/contests/abc193/tasks/abc193_f), [Get More Money](https://atcoder.jp/contests/typical90/tasks/typical90_an), [Grid Card Game](https://atcoder.jp/contests/abc259/tasks/abc259_g))
+    * 燃やす・埋める([MUL](https://atcoder.jp/contests/arc085/tasks/arc085_c), [Zebraness](https://atcoder.jp/contests/abc193/tasks/abc193_f), [Get More Money](https://atcoder.jp/contests/typical90/tasks/typical90_an), [X](https://atcoder.jp/contests/abc225/tasks/abc225_g), [Grid Card Game](https://atcoder.jp/contests/abc259/tasks/abc259_g))
 * 最小費用流
     * 最小流量・負辺([Minimum Coloring](https://atcoder.jp/contests/abc231/tasks/abc231_h), [輪投げ](https://atcoder.jp/contests/past202005-open/tasks/past202005_o))
     * 最大重みマッチング([Dream Team](https://atcoder.jp/contests/abc247/tasks/abc247_g))
@@ -64,3 +66,4 @@
 * 区間スケジューリング問題([仕事計画](https://atcoder.jp/contests/arc032/tasks/arc032_3))
 * K番目に大きい要素を効率よく求める問題([Game on Tree 2](https://atcoder.jp/contests/abc218/tasks/abc218_g), [Ignore Operations](https://atcoder.jp/contests/abc249/tasks/abc249_f))
 * 隣り合う要素であって値の異なるものを消す操作を繰り返して区間が全て消せるかを効率よく判定する([Almost Triple Deletions](https://codeforces.com/contest/1699/problem/D))
+* 鳩の巣定理([Find 4-cycle](https://atcoder.jp/contests/abc260/tasks/abc260_f))
