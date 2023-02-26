@@ -42,7 +42,7 @@
     * 区間の反転操作はグラフにする([Flip Digits 2](https://atcoder.jp/contests/typical90/tasks/typical90_aw), [Perils in Parallel](https://atcoder.jp/contests/abc155/tasks/abc155_f))
     * 木を半分に分割する点・辺（必ずしも存在しない・存在すれば唯一）はO(N)の木DPで求まる([赤青木](https://products.sint.co.jp/hubfs/resource/topsic/pgb2020/3_4.pdf))
 * 畳み込み
-    * 文字列`S`と`T`について、`S`の全ての連続する部分列と`T`とのハミング距離は、畳み込みで求まる([Substring 2](https://atcoder.jp/contests/abc196/tasks/abc196_f))
+    * 文字列`S`と`T`について、`S`の全ての連続する部分列と`T`とのハミング距離は、畳み込みで求まる([Substring 2](https://atcoder.jp/contests/abc196/tasks/abc196_f), [OR Sum](https://atcoder.jp/contests/abc291/tasks/abc291_g))
     * 数列`A, B, C, ...`に対して、添字`i+j+k+...`の和がある値`X`となるように動かしたときの`A[i]*B[j]*C[k]*...`の和は、`convolution(A, convolution(B, ...))[X]`で求められる([RGB Balls 2](https://atcoder.jp/contests/typical90/tasks/typical90_bm))
 * 数論
     * 原始根 ([Power Pair](https://atcoder.jp/contests/abc212/tasks/abc212_g))
