@@ -82,3 +82,4 @@
 * 乱択([Yet Another mod M](https://atcoder.jp/contests/abc272/tasks/abc272_g))
 * 疎なグリッド([Skate](https://atcoder.jp/contests/abc241/tasks/abc241_f), [LRUD Instructions](https://atcoder.jp/contests/abc273/tasks/abc273_d))
 * KMP法([コイン投げ](https://products.sint.co.jp/hubfs/resource/topsic/pgb2021/3_4.pdf))
+* Convex Hull Trick ([Shopping in AtCoder store](https://atcoder.jp/contests/abc289/tasks/abc289_g))
