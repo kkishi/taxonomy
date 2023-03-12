@@ -52,6 +52,7 @@
     * 拡張ユークリッドの互助法([Oversleeping](https://atcoder.jp/contests/abc193/tasks/abc193_e))
     * 約数の総和は、素因数ごとの等比数列の和の積で表される([Mod 2](https://yukicoder.me/submissions/753097))
     * 離散対数 ([222](https://atcoder.jp/contests/abc222/tasks/abc222_g), [Sequence in mod P](https://atcoder.jp/contests/abc270/tasks/abc270_g))
+    * q|pのときp/q(mod N)=p(mod N*q)/q([Geometric Progression](https://atcoder.jp/contests/abc293/tasks/abc293_e))
 * 中間値の定理 ([Count Median](https://atcoder.jp/contests/abc169/tasks/abc169_e), [Two Hundred Twenty One](https://codeforces.com/contest/1562/problem/D1), [Count 1's](https://atcoder.jp/contests/arc137/tasks/arc137_b))
 * セグメント木
     * RMQはその個数も同時に求められる ([Matrix](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=3035), [解説](http://web-ext.u-aizu.ac.jp/circles/acpc/commentary/RitsCamp2018Day2/J.pdf), [コード](https://github.com/beet-aizu/library/blob/master/test/aoj/3035.test.cpp))
