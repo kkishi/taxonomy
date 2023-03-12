@@ -76,7 +76,7 @@
 * 鳩の巣定理([Find 4-cycle](https://atcoder.jp/contests/abc260/tasks/abc260_f))
 * シェビチェフ距離([Nice Grid](https://atcoder.jp/contests/abc264/tasks/abc264_b))
 * 無限級数の和([Access Counter](https://atcoder.jp/contests/abc271/tasks/abc271_g), [コイン投げ](https://products.sint.co.jp/hubfs/resource/topsic/pgb2021/3_4.pdf))
-* 行列累乗([Access Counter](https://atcoder.jp/contests/abc271/tasks/abc271_g), [Geometric Progression](https://atcoder.jp/contests/abc293/tasks/abc293_e))
+* 行列累乗([Access Counter](https://atcoder.jp/contests/abc271/tasks/abc271_g), [Geometric Progression](https://atcoder.jp/contests/abc293/tasks/abc293_e), [Takahashi's Basics in Education and Learning](https://atcoder.jp/contests/abc129/tasks/abc129_f))
 * Baby-step giant-step([Sequence in mod P](https://atcoder.jp/contests/abc270/tasks/abc270_g))
 * 複数の文字列を連結した文字列に対するsuffix array([Two Strings](https://atcoder.jp/contests/abc272/tasks/abc272_f))
 * 乱択([Yet Another mod M](https://atcoder.jp/contests/abc272/tasks/abc272_g))
