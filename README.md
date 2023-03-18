@@ -24,7 +24,7 @@
     * 桁DPは、状態を全てフラグにして、配るDPで書く。([はまやんさんのまとめ](https://blog.hamayanhamayan.com/entry/2017/04/23/212728))
     * 二乗の木DP ([Tree Patrolling](https://atcoder.jp/contests/abc207/tasks/abc207_f), [Attack to a Tree](https://atcoder.jp/contests/aising2019/tasks/aising2019_e))
     * 部分列DP ([Strivore](https://atcoder.jp/contests/abc171/tasks/abc171_f), [Substrings](https://atcoder.jp/contests/abc214/tasks/abc214_f), [けんちょんさん](https://qiita.com/drken/items/a207e5ae3ea2cf17f4bd))
-    * 累積和による高速化([Divide a Sequence](https://atcoder.jp/contests/abc234/tasks/abc234_g), [RLE](https://atcoder.jp/contests/abc249/tasks/abc249_e))
+    * 累積和による高速化([Divide a Sequence](https://atcoder.jp/contests/abc234/tasks/abc234_g), [RLE](https://atcoder.jp/contests/abc249/tasks/abc249_e), [Manhattan Cafe](https://atcoder.jp/contests/abc265/tasks/abc265_f))
     * 円環のDPは、最初の要素の状態で場合分けをして列のDPをする([Cards](https://atcoder.jp/contests/abc247/tasks/abc247_f))
     * 耳DP([Ears](https://atcoder.jp/contests/yahoo-procon2019-qual/tasks/yahoo_procon2019_qual_d), [Knapsack for All Segments](https://atcoder.jp/contests/abc159/tasks/abc159_f), [Max Min](https://atcoder.jp/contests/abc247/tasks/abc247_e), [Left Right Operation](https://atcoder.jp/contests/abc263/tasks/abc263_d))
     * 箱根駅伝DP([箱根駅伝](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2439), [Permutation Oddness](https://atcoder.jp/contests/abc134/tasks/abc134_f))
