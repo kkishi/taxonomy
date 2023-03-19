@@ -85,3 +85,4 @@
 * 疎なグリッド([Skate](https://atcoder.jp/contests/abc241/tasks/abc241_f), [LRUD Instructions](https://atcoder.jp/contests/abc273/tasks/abc273_d))
 * KMP法([コイン投げ](https://products.sint.co.jp/hubfs/resource/topsic/pgb2021/3_4.pdf))
 * Convex Hull Trick ([Shopping in AtCoder store](https://atcoder.jp/contests/abc289/tasks/abc289_g))
+* 値の更新のある数列の転倒数は遅延セグメント木で計算できる([Lazy Segment Tree](https://atcoder.jp/contests/practice2/tasks/practice2_l), [012 Inversion](https://atcoder.jp/contests/abc265/tasks/abc265_g))
