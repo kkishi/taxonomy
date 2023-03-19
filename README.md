@@ -37,7 +37,7 @@
     * 木の座標圧縮はDFS順にソートすれば良い。LCAを使うと頂点間の距離も求められる。([Auxiliary Tree](https://dic.kimiyuki.net/auxiliary-tree), [Preserve Connectivity](https://atcoder.jp/contests/typical90/tasks/typical90_ai))
     * 木の中心は唯一に定まる。直径が奇数であればある辺が、偶数であればある点が中心となる。([Diameter set](https://atcoder.jp/contests/abc221/tasks/abc221_f))
     * 区間に辺を張る([Modulo Shortest Path](https://atcoder.jp/contests/abc232/tasks/abc232_g))
-    * HL分解([可変全域木](https://atcoder.jp/contests/past202004-open/tasks/past202004_o))
+    * HL分解([可変全域木](https://atcoder.jp/contests/past202004-open/tasks/past202004_o), [Distance Queries on a Tree](https://atcoder.jp/contests/abc294/tasks/abc294_g))
     * K最短路([Foreign Friends](https://atcoder.jp/contests/abc245/tasks/abc245_g))
     * 置換をグラフで表すとサイクルの集まりになる([Cards](https://atcoder.jp/contests/abc247/tasks/abc247_f))
     * 区間の反転操作はグラフにする([Flip Digits 2](https://atcoder.jp/contests/typical90/tasks/typical90_aw), [Perils in Parallel](https://atcoder.jp/contests/abc155/tasks/abc155_f))
