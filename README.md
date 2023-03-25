@@ -21,7 +21,7 @@
     * カタラン数 ([White and Black Balls](https://atcoder.jp/contests/abc205/tasks/abc205_e))
 * 二項係数の和 ([Many Many Paths](https://atcoder.jp/contests/abc154/tasks/abc154_f), [Gardens](https://atcoder.jp/contests/abc235/tasks/abc235_g))
 * DP
-    * 桁DPは、状態を全てフラグにして、配るDPで書く。([はまやんさんのまとめ](https://blog.hamayanhamayan.com/entry/2017/04/23/212728))
+    * 桁DPは、状態を全てフラグにして、配るDPで書く。([はまやんさんのまとめ](https://blog.hamayanhamayan.com/entry/2017/04/23/212728), [substr = S](https://atcoder.jp/contests/abc295/tasks/abc295_f))
     * 二乗の木DP ([Tree Patrolling](https://atcoder.jp/contests/abc207/tasks/abc207_f), [Attack to a Tree](https://atcoder.jp/contests/aising2019/tasks/aising2019_e))
     * 部分列DP ([Strivore](https://atcoder.jp/contests/abc171/tasks/abc171_f), [Substrings](https://atcoder.jp/contests/abc214/tasks/abc214_f), [けんちょんさん](https://qiita.com/drken/items/a207e5ae3ea2cf17f4bd))
     * 累積和による高速化([Divide a Sequence](https://atcoder.jp/contests/abc234/tasks/abc234_g), [RLE](https://atcoder.jp/contests/abc249/tasks/abc249_e), [Manhattan Cafe](https://atcoder.jp/contests/abc265/tasks/abc265_f))
