@@ -12,7 +12,7 @@
 * 幾何
     * 偏角ソートは境界付近に気をつける。STLのargは[-π, π]を返すので、-πに丸める ([Congruence Points](https://atcoder.jp/contests/abc207/tasks/abc207_d))
 * 数列
-    * 区間和問題はzero sum rangesを疑う ([うしさんのtweet](https://twitter.com/ei1333/status/1408791847426695174), [Diluc and Kaeya](https://codeforces.com/contest/1536/problem/C), [Mod i](https://atcoder.jp/contests/abc207/tasks/abc207_e), [けんちょんさんのまとめ](https://drken1215.hatenablog.com/archive/category/Zero-Sum%20Ranges), [Rem of Sum is Num](https://atcoder.jp/contests/abc146/tasks/abc146_e))
+    * 区間和問題はzero sum rangesを疑う ([うしさんのtweet](https://twitter.com/ei1333/status/1408791847426695174), [Diluc and Kaeya](https://codeforces.com/contest/1536/problem/C), [Mod i](https://atcoder.jp/contests/abc207/tasks/abc207_e), [けんちょんさんのまとめ](https://drken1215.hatenablog.com/archive/category/Zero-Sum%20Ranges), [Rem of Sum is Num](https://atcoder.jp/contests/abc146/tasks/abc146_e), [Three Days Ago](https://atcoder.jp/contests/abc295/tasks/abc295_d))
 * 約数系包除 ([Sum of gcd of Tuples (Hard)](https://atcoder.jp/contests/abc162/tasks/abc162_e), [Divide Both](https://atcoder.jp/contests/abc206/tasks/abc206_e), [Power Pair](https://atcoder.jp/contests/abc212/tasks/abc212_g))
 * 包除原理 ([Gardens](https://atcoder.jp/contests/abc235/tasks/abc235_g), [Yet Another RGB Sequence](https://atcoder.jp/contests/abc266/tasks/abc266_g))
 * 組み合わせ
