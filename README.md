@@ -54,6 +54,8 @@
     * 離散対数 ([222](https://atcoder.jp/contests/abc222/tasks/abc222_g), [Sequence in mod P](https://atcoder.jp/contests/abc270/tasks/abc270_g))
     * q|pのときp/q(mod N)=p(mod N*q)/q([Geometric Progression](https://atcoder.jp/contests/abc293/tasks/abc293_e))
     * N以下のオイラーのφ関数は $O(log^2N)$ で求められる ([GCDistance](https://yukicoder.me/problems/no/2249))
+    * $gcd(x, x+1) = 1$ ([Coprime Pair](https://atcoder.jp/contests/arc137/tasks/arc137_a))
+    * [素数の間隔](https://ja.wikipedia.org/wiki/%E7%B4%A0%E6%95%B0%E3%81%AE%E9%96%93%E9%9A%94)は小さい ([Coprime Pair](https://atcoder.jp/contests/arc137/tasks/arc137_a))
 * 中間値の定理 ([Count Median](https://atcoder.jp/contests/abc169/tasks/abc169_e), [Two Hundred Twenty One](https://codeforces.com/contest/1562/problem/D1), [Count 1's](https://atcoder.jp/contests/arc137/tasks/arc137_b))
 * セグメント木
     * RMQはその個数も同時に求められる ([Matrix](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=3035), [解説](http://web-ext.u-aizu.ac.jp/circles/acpc/commentary/RitsCamp2018Day2/J.pdf), [コード](https://github.com/beet-aizu/library/blob/master/test/aoj/3035.test.cpp))
