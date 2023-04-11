@@ -91,3 +91,5 @@
 * 値の更新のある数列の転倒数は遅延セグメント木で計算できる([Lazy Segment Tree](https://atcoder.jp/contests/practice2/tasks/practice2_l), [012 Inversion](https://atcoder.jp/contests/abc265/tasks/abc265_g))
 * 文字列の列を辞書順最小となるように結合するには、 $s+t < t+s$ でソートする([String Cards](https://atcoder.jp/contests/abc225/tasks/abc225_f))
 * 文字列を値としてDPをするときは、後ろから決めるとよい場合がある([String Cards](https://atcoder.jp/contests/abc225/tasks/abc225_f))
+* 自明な必要条件が十分条件 ([Permutation Addition](https://atcoder.jp/contests/arc159/tasks/arc159_c))
+* LIS ([LIS 2](https://atcoder.jp/contests/arc159/tasks/arc159_d))
