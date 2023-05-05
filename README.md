@@ -94,4 +94,4 @@
 * 文字列を値としてDPをするときは、後ろから決めるとよい場合がある([String Cards](https://atcoder.jp/contests/abc225/tasks/abc225_f))
 * 自明な必要条件が十分条件 ([Permutation Addition](https://atcoder.jp/contests/arc159/tasks/arc159_c))
 * LIS ([LIS 2](https://atcoder.jp/contests/arc159/tasks/arc159_d))
-* bitsetでグラフの隣接行列の更新を高速化する ([Walk the Runway](https://codeforces.com/contest/1826/problem/E))
+* bitsetで隣接行列の処理を高速化する ([Walk the Runway](https://codeforces.com/contest/1826/problem/E), [Triangle](https://atcoder.jp/contests/abc258/tasks/abc258_g))
