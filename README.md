@@ -95,3 +95,4 @@
 * 自明な必要条件が十分条件 ([Permutation Addition](https://atcoder.jp/contests/arc159/tasks/arc159_c))
 * LIS ([LIS 2](https://atcoder.jp/contests/arc159/tasks/arc159_d))
 * bitsetで隣接行列の処理を高速化する ([Walk the Runway](https://codeforces.com/contest/1826/problem/E), [Triangle](https://atcoder.jp/contests/abc258/tasks/abc258_g))
+* 数列の区間に対する操作を階差数列で考える([Range Add Query](https://atcoder.jp/contests/abc288/tasks/abc288_d))
