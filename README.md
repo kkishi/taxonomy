@@ -47,6 +47,7 @@
 * 畳み込み
     * 文字列`S`と`T`について、`S`の全ての連続する部分列と`T`とのハミング距離は、畳み込みで求まる([Substring 2](https://atcoder.jp/contests/abc196/tasks/abc196_f), [OR Sum](https://atcoder.jp/contests/abc291/tasks/abc291_g))
     * 数列`A, B, C, ...`に対して、添字`i+j+k+...`の和がある値`X`となるように動かしたときの`A[i]*B[j]*C[k]*...`の和は、`convolution(A, convolution(B, ...))[X]`で求められる([RGB Balls 2](https://atcoder.jp/contests/typical90/tasks/typical90_bm))
+    * 二項係数の積の和の畳み込み([Maximum Diameter](https://atcoder.jp/contests/abc290/tasks/abc290_f))
 * 数論
     * 原始根 ([Power Pair](https://atcoder.jp/contests/abc212/tasks/abc212_g))
     * フェルマーの小定理 ([Integer Sequence Fair](https://atcoder.jp/contests/abc228/tasks/abc228_e))
