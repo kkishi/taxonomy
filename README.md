@@ -101,3 +101,4 @@
 * 数列の区間に対する操作を階差数列で考える([Range Add Query](https://atcoder.jp/contests/abc288/tasks/abc288_d), [Minflip Summation](https://atcoder.jp/contests/abc200/tasks/abc200_f))
 * ロールバック可能DSU([交易計画](https://atcoder.jp/contests/joi2022yo2/tasks/joi2022_yo2_e), [Ball Collector](https://atcoder.jp/contests/abc302/tasks/abc302_h))
 * 要素の二択の集合から種類数が最大となるように要素を選ぶ([Reversible Cards](https://atcoder.jp/contests/arc111/tasks/arc111_b), [Ball Collector](https://atcoder.jp/contests/abc302/tasks/abc302_h))
+* nth_elementはsortより速い([Reverse and Count](https://atcoder.jp/contests/arc160/tasks/arc160_a))
