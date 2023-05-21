@@ -32,6 +32,7 @@
     * 必要な更新回数の上限が小さい([Chip Move](https://codeforces.com/contest/1716/problem/D))
     * 漸化式の再帰を消す([Sushi](https://atcoder.jp/contests/dp/tasks/dp_j), [Sugoroku2](https://atcoder.jp/contests/abc189/tasks/abc189_f), [Sugoroku 3](https://atcoder.jp/contests/abc263/tasks/abc263_e))
     * 区間DP ([Count Strictly Increasing Sequences](https://atcoder.jp/contests/abc292/tasks/abc292_g))
+    * 要素の集合(2^N)の代わりにを要素数(N)を状態に持つ([Anti-DDoS](https://atcoder.jp/contests/abc301/tasks/abc301_f))
 * グラフ
     * 木の巡回は、DFS順に点を訪れれば良い。
     * 木のサイズは、木の巡回長/2で求まる。
