@@ -102,3 +102,4 @@
 * ロールバック可能DSU([交易計画](https://atcoder.jp/contests/joi2022yo2/tasks/joi2022_yo2_e), [Ball Collector](https://atcoder.jp/contests/abc302/tasks/abc302_h))
 * 要素の二択の集合から種類数が最大となるように要素を選ぶ([Reversible Cards](https://atcoder.jp/contests/arc111/tasks/arc111_b), [Ball Collector](https://atcoder.jp/contests/abc302/tasks/abc302_h))
 * nth_elementはsortより速い([Reverse and Count](https://atcoder.jp/contests/arc160/tasks/arc160_a))
+* トーナメントの問題([Playoff Fixing](https://codeforces.com/contest/1837/problem/E))
